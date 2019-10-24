@@ -1,0 +1,7 @@
+homepage: "https://www.satismeter.com/
+documentation: "https://app.intercom.com/a/apps/w3bimpuv/articles/articles/2860350/show"
+versions:
+  # Latest version
+  - sha: d3cfd12d5acca0e7431e83dafbceb8b013917693
+    changeNotes: 
+  # Older versions
