@@ -1,7 +1,6 @@
   version:
   - sha:  0ddfde91149a7bcd959d0570aa66ebd259b0bab1
-  changeNotes: added template category
-    # Older versions
+
   - sha: d3cfd12d5acca0e7431e83dafbceb8b013917693
-    changeNotes: initial commit
+
 
