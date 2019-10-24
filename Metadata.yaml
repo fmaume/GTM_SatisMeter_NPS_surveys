@@ -2,6 +2,9 @@ homepage: "https://www.satismeter.com/
 documentation: "https://app.intercom.com/a/apps/w3bimpuv/articles/articles/2860350/show"
 versions:
   # Latest version
+  - sha:  9bd069c7eb0546f2bf94b119c3a2afd2da0e92ff
+  changeNotes: added template category
+    # Older versions
   - sha: d3cfd12d5acca0e7431e83dafbceb8b013917693
-    changeNotes: 
-  # Older versions
+    changeNotes: initial commit
+
